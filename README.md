@@ -113,3 +113,11 @@ are self-contained.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+## Links
+
+- 🌐 Website: [huggehub.com](https://www.huggehub.com)
+- 💻 GitHub: [@astrodevit-creator](https://github.com/astrodevit-creator)
+- 🔗 LinkedIn: _(add your profile URL)_
